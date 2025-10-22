@@ -1,0 +1,2 @@
+🧑‍💻 Profile Card Component A responsive, accessible, and semantic Profile Card built using HTML, CSS, and vanilla JavaScript. This project dynamically displays the current time in milliseconds and showcases user information, avatar, social links, hobbies, and dislikes — all marked with data-testid attributes for automated testing. --- ## 📋 Features ✔️ Semantic, accessible markup
+new profile card for the "about me" section and the "contact me" section
